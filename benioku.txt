@@ -1,0 +1,1 @@
+Veri.txt dosyasını doc klasörüne atınız.
